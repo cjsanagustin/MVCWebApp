@@ -1,6 +1,6 @@
 APPLYING CHANGES TO DATABASE FROM CODE:
 
-Step 1:		Set MVCWebApp_Entities as StartUp Project.
+Step 1:		IMPORTANT! Set MVCWebApp_Entities as StartUp Project.
 
 Step 2: 	On menu, go to Tools > NuGet Package Manager > Package Manager Console.
 		(Shortcut keys: Press hold Alt, click 't', 'n' lastly 'o')
